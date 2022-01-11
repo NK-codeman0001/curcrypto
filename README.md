@@ -24,8 +24,6 @@ Single platform for all top Crypto-Currencies related facts, feeds, stats and ne
 
 ● Redux Toolkit
 
-● Ant Design
-
 ● Chartjs
 
 ● RapidAPI
